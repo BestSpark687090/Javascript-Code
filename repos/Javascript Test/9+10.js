@@ -1,5 +1,5 @@
 // JavaScript source code
-const Sum = 9 + 12;
+const Sum = 9 + 10;
 const errorSum = Sum - 9
 javaTest();
 function javaTest() {
